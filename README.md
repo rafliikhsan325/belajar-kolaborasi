@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-perubahan readme1
-perubahan readme2
+perubahan deskripsi 1
+perubahan deskripsi 2
